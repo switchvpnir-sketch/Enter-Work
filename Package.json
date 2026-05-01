@@ -1,0 +1,10 @@
+{
+  "name": "zoltrix-network-gateway",
+  "version": "5.1.0",
+  "description": "Enterprise-grade network monitoring and asset management system for Zoltrix Kish infrastructure.",
+  "private": true,
+  "dependencies": {},
+  "engines": {
+    "node": "20.x"
+  }
+}
